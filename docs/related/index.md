@@ -91,6 +91,18 @@ _Author: [alyxdeburca](https://github.com/alyxdeburca/)_
 
 Web interface to track your FindMy devices.
 
+#### 🐍 [findmy-traccar-bridge](https://github.com/jannisko/findmy-traccar-bridge)
+
+_Author: [jannisko](https://github.com/jannisko)_
+
+Script to sync FindMy devices to [Traccar](https://www.traccar.org).
+
+#### 🐍 [findmy-traccar-bridge (Fork)](https://github.com/lanrat/findmy-traccar-bridge)
+
+_Author: [lanrat](https://github.com/lanrat)_
+
+Fork of findmy-traccar-bridge with some improvements.
+
 ## Libraries
 
 #### 🐍 [SwiftFindMy](https://github.com/airy10/SwiftFindMy)
