@@ -103,6 +103,12 @@ _Author: [lanrat](https://github.com/lanrat)_
 
 Fork of findmy-traccar-bridge with some improvements.
 
+#### 🐍 [apple-find-my-sync](https://github.com/nikita-skakun/apple-find-my-sync)
+
+_Author: [nikita-skakun](https://github.com/nikita-skakun)_
+
+Service to sync Apple Find My device locations to Traccar.
+
 ## Libraries
 
 #### 🐍 [SwiftFindMy](https://github.com/airy10/SwiftFindMy)
